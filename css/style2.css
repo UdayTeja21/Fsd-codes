@@ -1,0 +1,42 @@
+p{
+	color: red;
+	font-size: 30px;
+	font-family: cursive ;
+}
+div{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	border: 4px solid lightcoral;
+}
+*{
+	background-color: cyan;
+}
+
+input[type="text"]{
+	color: red;
+	background-color: yellow;
+}
+input[type="number"]{
+	color: black;
+	background-color: orange;
+}
+
+input[type="email"]{
+	color: darkolivegreen;
+	background-color: lightgoldenrodyellow;
+}
+
+input[type="button"]{
+	color: darkred;
+	background-color: lightseagreen	;
+}
+a[href]{
+	background-color: transparent;
+}
+a:hover{
+	font-size: 100px;
+}
+a:visited{
+	color: green;
+}
